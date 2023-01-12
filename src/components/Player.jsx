@@ -6,4 +6,6 @@ const Player = ()=>{
             <h1>Song name</h1>
         </div>
     )
-}
+    }
+
+    export default Player
